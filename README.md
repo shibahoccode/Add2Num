@@ -2,7 +2,7 @@
 
 > **Version:** 0.0.1
 > **Language:** C++17
-> **Author:** *(your name)*
+
 
 ---
 
